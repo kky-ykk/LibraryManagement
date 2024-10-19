@@ -28,3 +28,7 @@ This is a **MERN stack** application where users can log in, view books, and iss
   - Issue a book by selecting an issue date and a return date (dates cannot be earlier than the current date).
 - **Responsive Design**: The application is fully responsive, ensuring a good user experience on both desktop and mobile devices.
 
+
+## Home page
+
+<img src="home.png" alt="Assignment 5" width="400"/>
